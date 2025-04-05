@@ -1,4 +1,4 @@
-# Anonymous Message & Feedback Sender(Cuurently working on it)
+# Anonymous Message & Feedback Sender(Currently working on it)
 
 A web application that allows users to send **anonymous messages or feedback** to others — completely identity-free. It also provides **AI-suggested messages** using a ChatGPT-style API and allows **message deletion**. Built with a clean UI using the powerful **Shadcn UI** library.
 
